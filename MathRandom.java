@@ -1,4 +1,5 @@
 // 난수 생성 테스팅
+
 package Test;
 
 public class MathRandom {

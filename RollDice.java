@@ -1,4 +1,6 @@
 //6면 주사위 1만 번 후, 빈도 출력
+
+
 package Test;
 
 public class RollDice {

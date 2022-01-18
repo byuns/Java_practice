@@ -1,5 +1,6 @@
 // 극장 예약 시스템 (= 좌석 10개, 예약 o = 1, 예약 x = 0)
 // 예약 취소 추가
+
 package Test;
 import java.util.Scanner;
 
