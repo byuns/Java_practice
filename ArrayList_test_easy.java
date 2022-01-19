@@ -1,6 +1,5 @@
 //ArrayList<> 기본 사용법
 
-package Test;
 import java.util.ArrayList;
 public class ArrayList_test_easy {
 	public static void main(String[] args) {

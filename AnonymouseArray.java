@@ -1,6 +1,5 @@
 // 무명 배열 생성 후, 합 출력
 
-package Test;
 
 public class AnonymouseArray {
 	public static void main(String[] args) {

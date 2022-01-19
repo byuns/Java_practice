@@ -1,4 +1,3 @@
-package ClassTest;
 
 public class C_01_TelevisionTest {
 	public static void main(String[] args) {

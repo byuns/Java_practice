@@ -1,6 +1,6 @@
 // Tic-Tac-Toe >> 에러 잡기 및 성능 업그레이드
 // 조금 더 지능적으로 두게 할 필요성이 있음 추후수정
-package Test;
+
 import java.util.Scanner;
 
 public class Tic_Tac_Toe {

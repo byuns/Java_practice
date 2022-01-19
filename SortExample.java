@@ -1,6 +1,5 @@
 // 리스트 정렬 Arrays.sort("배열 명")
 
-package Test;
 import java.util.Arrays;
 
 public class SortExample {

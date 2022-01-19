@@ -1,5 +1,5 @@
 //2차원 배열
-package Test;
+
 import java.util.Scanner;
 
 public class ArrayTest6 {

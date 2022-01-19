@@ -1,7 +1,5 @@
 //1~10 배열 저장 후 출력
 
-package Test;
-
 public class ArrayTest1 {
 	public static void main(String[] args) {
 		

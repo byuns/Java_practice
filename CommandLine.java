@@ -1,7 +1,5 @@
 //[Run] > [Run Configuration] > [Argument]
 
-package Test;
-
 public class CommandLine {
 	public static void main(String[] args) {
 		if (args.length > 0) {

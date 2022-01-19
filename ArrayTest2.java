@@ -1,5 +1,5 @@
 // 5명 성적 입력 후,평균 성적 출력
-package Test;
+
 import java.util.Scanner;
 
 public class ArrayTest2 {
