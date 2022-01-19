@@ -12,8 +12,10 @@ public class C_01_TelevisionTest {
 		your_tv.volume = 12;
 		your_tv.onOff = true;
 		
-		System.out.println("나의 텔레비전의 채널은 " + my_tv.channel + "이고 볼륨은 "+ my_tv.volume + "입니다.");
-		System.out.println("너의 텔레비전의 채널은 " + your_tv.channel + "이고 볼륨은 "+ your_tv.volume + "입니다.");
+//		System.out.println("나의 텔레비전의 채널은 " + my_tv.channel + "이고 볼륨은 "+ my_tv.volume + "입니다.");
+//		System.out.println("너의 텔레비전의 채널은 " + your_tv.channel + "이고 볼륨은 "+ your_tv.volume + "입니다.");
+		my_tv.print();
+		your_tv.print();
 	}
 
 }
