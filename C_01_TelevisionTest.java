@@ -1,6 +1,5 @@
 package ClassTest;
 
-
 public class C_01_TelevisionTest {
 	public static void main(String[] args) {
 		C_01_Television tv = new C_01_Television();
